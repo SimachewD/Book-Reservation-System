@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active{
+    background-color: rgb(29, 28, 48);
+    border-radius: 15px;
+}
+.blueBtn{
+    background-color: rgb(1, 44, 80) 
+}
